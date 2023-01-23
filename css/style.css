@@ -1,0 +1,335 @@
+body
+{
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont,
+ "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", 
+"Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/* navbar start here--------------- */
+
+#full-navbar
+{
+    background-image: url('../img/header-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 700px;
+}
+.navbar-brand
+{
+    color: rgb(234, 194, 14);
+    font-size: 30px;
+}
+.navbar-brand:hover
+{
+    color: rgb(175, 145, 13);
+   
+}
+.nav-link
+{
+    color:rgb(209, 209, 209);
+    margin-left: 20px;
+}
+.nav-link:hover
+{
+    color:rgb(175, 145, 13);
+    
+}
+/* navbar end here--------------- */
+
+.main-container
+{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+
+/* welcome start here---------- */
+.welcome
+{
+    margin-top: 150px;
+}
+.welcomefirst
+{
+    font-size: 30px;
+}
+.welcomesecond
+{
+    font-size: 60px;
+    font-weight: 900;
+}
+.welcome-button
+{
+    margin-top: 60px;
+}
+.tell-me
+{
+    text-decoration: none;
+    padding: 20px 35px 20px 35px;
+    background-color: rgb(234, 194, 14);
+    border-radius: 5px;
+    color: white;
+    font-weight:800;
+   
+}
+.tell-me:hover
+{
+    color: rgb(128, 128, 128);
+}
+/* welcome end here---------- */
+
+/* service ---------- */
+.section-name
+{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.service-text
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.department-name
+{
+    padding-bottom: 15px;
+    font-weight: 700;
+}
+.E-Commerce-info
+{
+font-size: 15px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.E-Commerce-icon1
+{
+    font-size: 70px;
+    background-color: rgb(234, 194, 14);
+    border-radius: 100%;
+    padding: 35px 30px 35px 30px;
+    color: white;
+}
+.E-Commerce-icon2
+{
+    font-size: 70px;
+    background-color: rgb(234, 194, 14);
+    border-radius: 100%;
+    padding: 35px 27px 35px 27px;
+    color: white;
+}
+.E-Commerce-icon3
+{
+    font-size: 70px;
+    background-color: rgb(234, 194, 14);
+    border-radius: 100%;
+    padding: 35px 37px 35px 37px;
+    color: white;
+}
+
+/* service ---------- */
+
+/* portfolio---------------- */
+.portfolio
+{
+    background-color: rgb(246, 246, 246);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.section-name2
+{
+    font-weight: 700;
+    font-size: 40px;
+}
+.portfolio-text
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main-img
+{
+    max-width: 100%;
+    height: auto;
+}
+.img-info
+{
+    padding: 1.5rem;
+    text-align: center;
+    background-color: #fff;
+}
+.img-name
+{
+    font-weight: 700;
+    font-size: 20px;
+}
+.img-details
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* portfolio---------------- */
+
+/* about------------------- */
+
+.about
+{
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.section-name3
+{
+    font-weight: 700;
+    font-size: 40px;
+}
+.about-text
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* first link-------------------- */
+.first-link
+{
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+.first-link-img
+{
+    margin-right: 20px;
+}
+.first-img
+{
+    max-width: 100%;
+    height: auto;
+    border-radius: 50% !important;
+    border: 5px solid rgb(189, 189, 189);
+}
+.year
+{
+    font-weight: 700;
+}
+.describe
+{
+    font-weight: 700;
+}
+.first-img-detail-text
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* first link-------------------- */
+
+/* about---------------- */
+
+
+
+/* team here----------- */
+.team
+{
+    background-color: rgb(246, 246, 246);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.section-name4
+{
+    font-weight: 700;
+    font-size: 40px;
+}
+.team-text
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* first member----------- */
+.first-member-img
+{
+    width: 14rem;
+    height: 14rem;
+    border: 0.5rem solid rgba(0, 0, 0, 0.1);
+    border-radius: 100%;
+    margin-bottom: 20px;
+}
+.first-member-name
+{
+    font-weight: 700;
+}
+.first-member-post
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.icon
+{
+font-size: 20px;
+background-color: rgb(43, 43, 43);
+color: white;
+border-radius: 100%;
+padding: 8px;
+margin-right: 5px;
+margin-left: 5px;
+}
+
+/* first member----------- */
+
+/* team here----------- */
+
+
+/* all links here----------- */
+.all-links
+{
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.all-links-img
+{
+    height: 2.75rem;
+    max-width: 100%;
+}
+/* all links here----------- */
+
+/* footer here----------- */
+.footer-bg
+{
+    background-color: #212529;
+    background-image: url(../img/footer.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 6rem;
+}
+.section-name5
+{
+    font-weight: 700;
+    font-size: 40px;
+}
+.footer-text
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(183, 183, 183);
+}
+/* footer here----------- */
+
+/* footer2 here-------------- */
+.footer2
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.policy
+{
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: black;
+}
+.policy:hover
+{
+    color: black;
+}
+.icon1
+{
+font-size: 20px;
+background-color: rgb(43, 43, 43);
+color: white;
+border-radius: 100%;
+padding: 8px;
+margin-right: 10px;
+margin-left: 10px;
+}
+/* footer2 here-------------- */
+
